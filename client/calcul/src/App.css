@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  height: 2em;
+  background-color: #5898d3;
+  color: #fff;
+  justify-content: flex-end;
+  padding: 0.5em;
+  border-color: #406d97;
+  font-size: 1em;
+  align-items: center;
+  margin-bottom: 6px;
+}
+

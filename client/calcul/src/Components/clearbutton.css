@@ -1,0 +1,10 @@
+.clearUp{
+    width: 205px;
+    background-color: rgb(196, 141, 74);
+    padding: 2%;
+    text-align: center;
+    position: relative;
+    margin-left: 26em;
+    margin-top: 2em;
+    cursor: pointer;
+}
